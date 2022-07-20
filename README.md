@@ -106,7 +106,7 @@ Créer des pages transitions en suivant ce [tutoriel](https://www.youtube.com/wa
 
 ## La page d'accueil
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de2e0cf2-f02c-4ff6-ba37-4b5e8c854887/homepage_lg.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de2e0cf2-f02c-4ff6-ba37-4b5e8c854887/homepage_lg.png)
+![Homepage](./img/../templates/homepage/homepage_lg.png)
 
 > Chez Suzette, la nouvelle crêperie qui fait parler d'elle
 
@@ -122,7 +122,7 @@ Créer des pages transitions en suivant ce [tutoriel](https://www.youtube.com/wa
 
 ## Vos articles
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05f3958f-ef68-432b-b8f8-e59f32796972/post_lg.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05f3958f-ef68-432b-b8f8-e59f32796972/post_lg.png)
+![Articles](./img/recipes/../../templates/post/post_lg.png)
 
 > La franchise "Chez Suzette" qui fait un carton chez les bretons ouvre son premier restaurant à Paris dans le quartier latin. Antoine de Cui'zine a testé pour vous les saveurs sucrés, salés au froment ou au sarrazin!
 
@@ -138,7 +138,7 @@ Créer des pages transitions en suivant ce [tutoriel](https://www.youtube.com/wa
 
 ## Vos recettes
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2bd16924-902c-4b5a-bd24-58beedace03f/recipe_lg.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2bd16924-902c-4b5a-bd24-58beedace03f/recipe_lg.png)
+![Recipes](./img/recipes/../../templates/recipe/recipe_lg.png)
 
 > Verser la moitié de l'huile dans une très large poêle, y faire dorer le poulet, le porc et la saucisse jusqu'à mi-cuisson, puis les retirer.
 
@@ -170,7 +170,7 @@ Créer des pages transitions en suivant ce [tutoriel](https://www.youtube.com/wa
 
 ## Votre équipe
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f41a7d96-c784-468e-a8a2-0fe1854b3ed3/team_lg.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f41a7d96-c784-468e-a8a2-0fe1854b3ed3/team_lg.png)
+![Team](./img/../templates/team/team_lg.png)
 
 > On apprend en enseignant
 
@@ -178,7 +178,7 @@ Créer des pages transitions en suivant ce [tutoriel](https://www.youtube.com/wa
 
 ## Vous
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be2b1eeb-ef50-44cc-88c2-3c4c847cb07d/team-member_lg.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be2b1eeb-ef50-44cc-88c2-3c4c847cb07d/team-member_lg.png)
+![Team-member](./img/../templates/team-member/team-member_lg.png)
 
 > Antoine, né à London, en Ontario, a été élevé dans une famille mormone. Son père est d'origine canadien-français. Il se destine d'abord à une carrière de danseur avant d'être engagé en 1993, à l'âge de 12 ans, sur The Mickey Mouse Club (All New Mickey Mouse Club) aux côtés de Britney Spears, Christina Aguilera et Justin Timberlake.
 
@@ -194,8 +194,8 @@ Créer des pages transitions en suivant ce [tutoriel](https://www.youtube.com/wa
 
 ## Vous contacter
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c91a33d-3ae1-4e0b-85ec-a00649c00e69/contact_lg.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c91a33d-3ae1-4e0b-85ec-a00649c00e69/contact_lg.png)
+![Contact](./img/../templates/contact/contact_lg.png)
 
 ## Page 2
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/204d7634-65a4-458d-b6a3-ed498a1d3551/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/204d7634-65a4-458d-b6a3-ed498a1d3551/Untitled.png)
+![Le mag](./img/../templates/lemag.png)
